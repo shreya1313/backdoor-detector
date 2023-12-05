@@ -9,7 +9,7 @@ Input:
 - validation dataset of clean, labelled images.
 
 Output:
-- G a “repaired” BadNet
+- Goodnet a “repaired” BadNet
   - Output the correct class if the test input is clean. The correct class will be in [1,N]
   - Output class N+1 if the input is backdoored
 
@@ -33,4 +33,4 @@ Results:
     - Final comparison of Pruned and Good model
       ![Plot](https://github.com/shreya1313/backdoor-detector/blob/main/screenshots/final_comparison.png)
 
-_THANKS!_
+_Thanks!_
