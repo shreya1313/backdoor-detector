@@ -25,6 +25,7 @@ Challenges:
 
 How to run the code:
 - Run all the cells of the [ipynb notebook](https://github.com/shreya1313/backdoor-detector/blob/main/backdoor_detector.ipynb) attached.
+- For pruned models, please look at [these](https://github.com/shreya1313/backdoor-detector/tree/main/models) models attached -- directly access it run the notebook.
 
 Results:
 - The results are as follows
