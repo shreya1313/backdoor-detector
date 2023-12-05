@@ -27,4 +27,9 @@ How to run the code:
 - Run all the cells of the [ipynb notebook](https://github.com/shreya1313/backdoor-detector/blob/main/backdoor_detector.ipynb) attached.
 
 Results:
-
+- The results are as follows
+    - The pruned model as a function of the fraction of channels pruned
+      ![Plot](https://github.com/shreya1313/backdoor-detector/blob/main/screenshots/pruned_model_plot.png)
+    - Final comparison of Pruned and Good model
+      ![Plot] (https://github.com/shreya1313/backdoor-detector/blob/main/screenshots/final_comparison.png)
+    - 
