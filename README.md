@@ -1,4 +1,4 @@
-## Backdoor-Detector for BadNets
+## ***Backdoor-Detector for BadNets***
 
 Dataset: 
 - Youtube Face
@@ -21,5 +21,10 @@ Approach:
  
 Challenges:
 - Since pooling layer doesn't have any weights, we make use of convolution layer (conv_3, in our case)
+- Didn't have resources to run pruning of all 60 channels
 
-Results
+How to run the code:
+- Run all the cells of the [ipynb notebook](https://github.com/shreya1313/backdoor-detector/blob/main/backdoor_detector.ipynb) attached.
+
+Results:
+
